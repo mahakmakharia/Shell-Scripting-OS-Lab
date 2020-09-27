@@ -1,0 +1,5 @@
+Dog is a domestic animal
+Dog hates cat
+Cat drinks milk
+Dog is bigger than Cat
+Cat is also a domestic animal
